@@ -1,8 +1,8 @@
 
 import { MapContainer, TileLayer, Marker} from 'react-leaflet'
 import "leaflet/dist/leaflet.css"
-import Empresas from '../public/empresas.json'
-
+/* import Empresas from '../public/empresas.json'
+ */
 
 
 export default function Mapa() {
