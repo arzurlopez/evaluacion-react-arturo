@@ -2,7 +2,7 @@
 export default function Inicio() {
   return (
     <>
-    Inicio
+    Página de Inicio
     </>
   )
 }

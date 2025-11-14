@@ -9,6 +9,8 @@ import { BrowserRouter } from 'react-router-dom';
 import Inicio from './components/Inicio'
 import Empresas from './components/Empresas'
 import Mapa from './components/Mapa'
+import './App.css'
+
 
 
 
@@ -17,7 +19,11 @@ function App() {
 
   return (
     <>
-
+<header>
+  <h2>Página de empresas</h2>
+  </header>
+    
+ 
         <nav>
           <ul>
             <li><Link to="/">Home</Link></li>
