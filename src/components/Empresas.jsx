@@ -1,8 +1,10 @@
 
 import { useEffect } from "react"
+import empresas from '../assets/empresas.json'
+
 
 export default function Empresas() {
-    
+
   return (
     <>
     Empresas
